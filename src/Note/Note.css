@@ -1,0 +1,19 @@
+.Note {
+  height: 70px;
+  border-bottom: 1px solid;
+  border-color: #f0f0f0;
+}
+
+.Note:hover {
+  background-color: #f8f8f8;
+  cursor: pointer;
+}
+
+.NoteTitle {
+  text-align: left;
+  padding: 20px 20px;
+}
+
+.selectedNote {
+  background-color: #eef3f8 !important;
+}

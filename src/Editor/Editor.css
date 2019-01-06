@@ -1,0 +1,13 @@
+.Editor {
+  font-size: 18px;
+  resize: none;
+  border: none;
+  padding: 40px;
+  box-sizing: border-box;
+  width: 100%;
+  height: calc(100% - 3px);
+}
+
+textarea:focus{
+  outline: none;
+}
